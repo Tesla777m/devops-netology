@@ -1,20 +1,10 @@
 # devops-netology
-for DEVSYS-PDC-2: Max Kuleshov:
+for DEVSYS-PDC-2 MaxKuleshov
 
-# Игнорировать локальные дирректории .terraform
-**/.terraform/* 
+Line1 Task 2.4. IDE commit
 
-
-#  Игнорировать файлы по маске, включая директории и поддиректории 
-*.tfstate
-*.tfstate.*
-crash.log
-*.tfvars
-override.tf
-override.tf.json
-*_override.tf
-*_override.tf.json
-.terraformrc
-terraform.rc
 
 Line for task 2.3.
+
+Line2 Tesk 2.4 IDE commit
+
